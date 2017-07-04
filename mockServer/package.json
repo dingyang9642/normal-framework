@@ -1,0 +1,24 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mock.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dingyang9642/food.git"
+  },
+  "author": "dingyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dingyang9642/food/issues"
+  },
+  "homepage": "https://github.com/dingyang9642/food#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "body-parser": "^1.17.1"
+  }
+}

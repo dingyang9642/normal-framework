@@ -1,0 +1,26 @@
+{
+  "name": "food",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node mockServer/mock.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dingyang9642/food.git"
+  },
+  "author": "dingyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dingyang9642/food/issues"
+  },
+  "homepage": "https://github.com/dingyang9642/food#readme",
+  "dependencies": {
+    "browser-sync": "^2.11.2",
+    "gulp": "^3.9.1",
+    "gulp-connect": "5.0.0",
+    "http-proxy-middleware": "^0.17.4"
+  }
+}
